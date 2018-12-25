@@ -8,7 +8,7 @@
     "image": "uroni/urbackup-server",
     "privileged": true,
     "ports": [
-      "55413:55413/tcp", "55414:55414/tcp", "55415:55415/tcp", "35623:35623/udp"
+      "55413:55413/tcp", "55414:55414/tcp", "55415:55415/tcp", "35623:35623/tcp","35623:35623/udp"
     ],
     "volumes": [
       {
