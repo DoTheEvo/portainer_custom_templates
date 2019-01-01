@@ -7,6 +7,7 @@
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/urbackup.png",
     "image": "uroni/urbackup-server",
     "privileged": true,
+    "network": "host",
     "ports": [
       "55413:55413/tcp", "55414:55414/tcp", "55415:55415/tcp", "35623:35623/udp"
     ],
