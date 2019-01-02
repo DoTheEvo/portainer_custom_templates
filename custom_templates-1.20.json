@@ -2,7 +2,7 @@
     "type": 1,
     "title": "UrBackup",
     "description": "Open-source network backup server",
-    "note": "Available at port 55414, btrfs enbaled, network discovery enabled",
+    "note": "Available at port 55414, privileged for btrfs, --network host for network discovery to work",
     "categories": ["backup"],
     "platform": "linux",
     "logo": "https://portainer-io-assets.sfo2.digitaloceanspaces.com/logos/urbackup.png",
